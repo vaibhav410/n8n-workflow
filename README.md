@@ -88,11 +88,6 @@ Edit these fields in workflow:
 
 ---
 
-## 📸 Demo
-
-_Add your workflow and email screenshots here_
-
----
 
 ## 💡 Future Improvements
 
