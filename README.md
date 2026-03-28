@@ -5,6 +5,8 @@
 Stop applying for internships. Let them come to you.
 
 This project is a fully automated job-hunting system built using **n8n + Google Gemini AI** that finds relevant internships/jobs and delivers them directly to your inbox.
+<img width="1840" height="850" alt="image" src="https://github.com/user-attachments/assets/f9657d17-32d2-4562-8358-a96ec39ccbd6" />
+
 
 ---
 
